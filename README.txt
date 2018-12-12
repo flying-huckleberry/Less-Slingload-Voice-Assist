@@ -1,4 +1,4 @@
-EXTERNAL CARGO VOICE ASSIST MOD
+LESS SLINGLOAD VOICE ASSISTANCE
 
 When slingloading external cargo, there is a voice assistant that constantly provides situational awareness.  This mod allows you to mute any/all of those sound bites.
 
