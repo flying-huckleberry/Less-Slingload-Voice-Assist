@@ -61,7 +61,8 @@ UNMUTING A SOUND:
 
 
 NOTE: If you want Russian a/c to still use English voice
-      use the other mod, ENGLISH CARGO VOICE ASSIST MOD
+      use the other mod, LESS SLINGLOAD VOICE ENGLISH
+https://github.com/flying-huckleberry/Less-Slingload-Voice-English/releases
 
 by Chic and Huckleberry (A/229)
 flyinghuckleberry@gmail.com
