@@ -18,7 +18,7 @@ The following are sounds you will STILL HEAR:
   three_to_ground
   cargo_ground_reset (on the ground, release)
 
-The following sounds have been muted:
+The following sounds have been MUTED:
 
  cargo_ropes_normal	(load is hanging steady, take it away)
  cargo_ropes_normal_2	(load is hanging steady)
@@ -27,12 +27,9 @@ The following sounds have been muted:
  taut_of_rope		(take tension)
  meter_ground		(load is 1m off the ground)
  three_ground		(3m off the ground)
- twenty_ground		(20ft off the ground)
  one_to_ground
- five_to_ground
  twenty_to_ground
- fifteen_to_ground
- fifty_to_ground
+ fifteen_ground
  two
  three
  five
@@ -42,22 +39,20 @@ The following sounds have been muted:
  thirty
  fifty
  sixty
+ one_hundred
+ one_hundred_and_fifty
+
+
+ This mod is easily customizable...
 
 
 MUTING A SOUND:
- 1) Identify the file name of the sound you want muted in
-    /External Cargo Voice Assist Mod/.../ENG/.../_ORIGINALS
- 2) Copy the file in
-    /External Cargo Voice Assist Mod/.../ENG/.../_BLANK/
-    to
-    /External Cargo Voice Assist Mod/.../ENG/.../Messages
- 3) Rename the copied file to the file name identified in step 1
- 4) Repeat this process for the /RUS/ directory
+  Comment (--add 2 dashes to beginning) the sounds you want muted in
+    /Less-Slingload-Voice-Assist/Scripts/Speech/common_events.lua
 
 UNMUTING A SOUND:
- 1) Delete the file you want UN-muted from
-    /External Cargo Voice Assist Mod/.../ENG/.../Messages
- 2) Repeat this process for the /RUS/ directory
+  Uncomment (remove 2 dashes -- from line) the sounds you want unmuted in
+    /Less-Slingload-Voice-Assist/Scripts/Speech/common_events.lua
 
 
 NOTE: If you want Russian a/c to still use English voice
